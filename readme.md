@@ -2,10 +2,20 @@
 
 My personal [Raycast](https://www.raycast.com/) scripts.
 
-You need to have [Deno](https://deno.land/) installed on your machine and have the `deno` command available in system `$PATH`, otherwise you can run `brew install deno` to install it.
+> to be added soon
 
-Then clone this repo to your local machine and use it as the script directory in Raycast:
+## Contribute
 
-<!-- ![add the directory to script directories](https://i.loli.net/2021/10/08/YuCZQGFkOaB8Kmx.jpg) -->
+Have idea how to improve or something is broken?
 
-## Scripts
+Search for [existing issues](../../issues) or open [new one](../../issues/new/choose).
+
+PRs with code/docs changes are welcome.
+
+## Thank you
+
+You can support me on [GitHub](https://github.com/sponsors/nikitavoloboev) or look into [other projects](https://nikiv.dev/projects) I shared.
+
+I also have [personal Discord](https://discord.com/invite/TVafwaD23d) you can join for more indepth discussions.
+
+[![MIT](http://bit.ly/mitbadge)](https://choosealicense.com/licenses/mit/) [![Twitter](http://bit.ly/nikitatweet)](https://twitter.com/nikitavoloboev)
