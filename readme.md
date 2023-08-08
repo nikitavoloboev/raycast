@@ -2,6 +2,14 @@
 
 > [Raycast](https://www.raycast.com/) extensions I use
 
+## Setup
+
+> TODO:
+
+## Run
+
+> TODO:
+
 ## Contribute
 
 The tasks to do are outlined in [existing issues](../../issues) and in [tasks below](#tasks) (sorted by priority).
