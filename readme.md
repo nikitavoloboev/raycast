@@ -1,21 +1,23 @@
-# Raycast scripts
+# Raycast
 
-My personal [Raycast](https://www.raycast.com/) scripts.
-
-> to be added soon
+> [Raycast](https://www.raycast.com/) extensions I use
 
 ## Contribute
 
-Have idea how to improve or something is broken?
+The tasks to do are outlined in [existing issues](../../issues) and in [tasks below](#tasks) (sorted by priority).
 
-Search for [existing issues](../../issues) or open [new one](../../issues/new/choose).
+If issue/idea you have is not there, [open new issue](../../issues/new/choose) or [start discussion](../../discussions).
 
-PRs with code/docs changes are welcome.
+Any PR with code/doc improvements is welcome. ✨
 
-## Thank you
+Join [Discord](https://discord.com/invite/TVafwaD23d) for more indepth discussions on this repo and [others](https://github.com/nikitavoloboev#src).
 
-You can support me on [GitHub](https://github.com/sponsors/nikitavoloboev) or look into [other projects](https://nikiv.dev/projects) I shared.
+## Tasks
 
-I also have [personal Discord](https://discord.com/invite/TVafwaD23d) you can join for more indepth discussions.
+- figure out propery raycast DX setup
 
-[![MIT](http://bit.ly/mitbadge)](https://choosealicense.com/licenses/mit/) [![Twitter](http://bit.ly/nikitatweet)](https://twitter.com/nikitavoloboev)
+### ♥️
+
+[Support on GitHub](https://github.com/sponsors/nikitavoloboev) or look into [other projects](https://nikiv.dev/projects).
+
+[![MIT](http://bit.ly/mitbadge)](https://choosealicense.com/licenses/mit/) [![Twitter](http://bit.ly/latwitt)](https://twitter.com/learnanything_)
